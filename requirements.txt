@@ -1,0 +1,8 @@
+torch>=1.7.0
+torchvision>=0.8.1
+torchaudio>=0.7.0
+uproot>=4.0.0
+awkward>=1.0.0
+vector>=0.8.3
+tqdm>=4.50.0
+matplotlib>=3.3.0
