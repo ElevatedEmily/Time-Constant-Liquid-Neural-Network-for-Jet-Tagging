@@ -52,6 +52,10 @@ bash
 pip install torch torchvision torchaudio
 pip install uproot awkward vector tqdm matplotlib
 
+Install using pip with requirements.txt
+
+pip install -r requirements.txt
+
 Data Preparation
 
     Data Format: The data should be in ROOT files with particle-level features (part_px, part_py, part_pz) and jet-level labels.
